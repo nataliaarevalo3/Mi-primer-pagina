@@ -1,0 +1,47 @@
+/* Fondo de la página */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* Encabezado */
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+}
+
+/* Párrafo */
+p {
+    font-size: 18px;
+    color: #34495e;
+}
+
+/* Enlace */
+a {
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+}
+
+/* Imagen */
+img {
+    border-radius: 30%;
+    border: 2px solid #2980b9;
+    width: 150px; /* tamaño de perfil */
+}
+
+/* Botón */
+button {
+    background-color: #27ae60;
+    color: white;
+    font-size: 16px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2ecc71;
+}
